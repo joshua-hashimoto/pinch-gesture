@@ -1,0 +1,14 @@
+.App {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 80vw;
+    height: 80vh;
+    border: 2px solid #0663b4;
+}
